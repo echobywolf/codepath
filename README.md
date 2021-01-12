@@ -1,5 +1,5 @@
 # codepath
-intro to android required coursework - lecorchick
+intro to android prework - lecorchick
 
 ## My Application 1
 
