@@ -7,7 +7,6 @@ intro to android required coursework - lecorchick
   Anroid app that changes text color upon click including all optional extensions.
 
 ### App Walk-though
-(takes a few seconds for color change)
 <img src="codepath-helloworld-optional-lecorchick.gif" width=200><br>
 
 ### Required User Stories
